@@ -1,11 +1,3 @@
-#!/bin/sh
-
-# You need autoconf 2.5x, preferably 2.57 or later
-# You need automake 1.7 or later. 1.6 might work.
-
-set -e
-
-aclocal
-autoheader
-automake --gnu --add-missing --copy
-autoconf
+version https://git-lfs.github.com/spec/v1
+oid sha256:3547ab420d257764ecacede00d1acd0e4d0405936bf9cc1f77d48055db76b2d2
+size 185

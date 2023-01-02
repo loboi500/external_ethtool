@@ -1,2 +1,3 @@
-ethtool is a small utility for examining and tuning your ethernet-based
-network interface.  See the man page for more details.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21120994fe7bd62ad04cef7ff32a0920acc8d34c201d698064df5f1f49c6e2fe
+size 127

@@ -1,9 +1,3 @@
-David Miller <davem@redhat.com>
-Jakub Jelinek <jj@ultra.linux.cz>
-Jeff Garzik <jgarzik@pobox.com>
-Tim Hockin <thockin@sun.com>
-Eli Kupermann <eli.kupermann@intel.com>
-Chris Leech <christopher.leech@intel.com>
-Scott Feldman <scott.feldman@intel.com>
-Andi Kleen
-Ben Hutchings <ben@decadent.org.uk>
+version https://git-lfs.github.com/spec/v1
+oid sha256:740925de9ebd8237b1d66c1cbf9c56c485aba157220d8fc3c43a66320e1be98e
+size 296
